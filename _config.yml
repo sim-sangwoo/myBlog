@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 title                    : "컴소"
 description              : "ssafy 서울 9반"
 url                      : "https://sim-sangwoo.github.io" # 예: https://ssafy2018.github.io"
-baseurl                  : "myBlog" # "public"
+baseurl                  : "/myBlog" # "public"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
